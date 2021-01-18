@@ -19,3 +19,6 @@ This includes the lisitng of all the users registered from from.
 
 ## SQL File
 Attached the database file as well.
+
+## Upload Folder Path :
+root/assets/uploads
