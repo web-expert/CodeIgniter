@@ -18,7 +18,8 @@ On the Users page, show the registered users by using table.
 This includes the lisitng of all the users registered from from.
 
 ## SQL File
-Attached the database file as well.
+Attached the database file as well. (File name : code_regdb.sql)
+Also, Change the database settings inside the database file : application/config/ - database.php
 
 ## Upload Folder Path :
 root/assets/uploads
